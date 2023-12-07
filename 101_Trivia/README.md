@@ -2,6 +2,15 @@
 ## Description:
 This project is a web application for a trivia game, where users can register, log in, and play trivia games in two modes: "Creative Game" and "Challenge Game." Users can also view a ranking of players based on their scores. The application uses Flask, MySQL for the database and the GPT-3 language model from OpenAI for generating trivia questions.
 
+## Technologies Used
+* Python
+* Flask
+* MySQL
+* Jinja2
+* Werkzeug
+* CSS
+* HTML
+
 # Features
 Registration and Login: Users can register for an account and log in to play the trivia games. Both routes are designed with the help of jinja and HTML forms.
 Both forms have error handling for doubling username, different password, and repetition of the password or any form missing. If there are not any errors
