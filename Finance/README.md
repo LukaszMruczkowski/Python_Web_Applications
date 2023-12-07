@@ -9,6 +9,8 @@ This is a simple finance web application that allows users to manage their stock
 * CS50 Library
 * Jinja2
 * Werkzeug
+* CSS
+* HTML
 
 ## Features
 * User Authentication: Users can register, log in, and log out. Passwords are securely hashed.
